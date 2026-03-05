@@ -1,0 +1,16 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "sqltools.connections": [
+    {
+      "ssh": "Disabled",
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5632,
+      "driver": "PostgreSQL",
+      "name": "agri test",
+      "database": "agri_db",
+      "username": "agriadmin",
+      "password": "agriadmin123"
+    }
+  ]
+}
