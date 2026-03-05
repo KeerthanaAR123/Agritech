@@ -1,7 +1,0 @@
-# API & Utilities
-fastapi
-uvicorn
-pydantic
-python-dotenv
-requests
-python-multipart
